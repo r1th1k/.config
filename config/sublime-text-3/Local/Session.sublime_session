@@ -1,0 +1,1290 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3211,
+	"last_window_id": 7,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1380.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"re",
+						"requests"
+					],
+					[
+						"m",
+						"message"
+					],
+					[
+						"r",
+						"rambl"
+					],
+					[
+						"ramb",
+						"rambls"
+					],
+					[
+						"con",
+						"converter"
+					],
+					[
+						"a",
+						"answerList"
+					],
+					[
+						"f",
+						"flag"
+					],
+					[
+						"bin",
+						"binFlag"
+					],
+					[
+						"c",
+						"correctAnswer"
+					],
+					[
+						"ide",
+						"identifier_suffix"
+					],
+					[
+						"no",
+						"note_dict"
+					],
+					[
+						"de",
+						"decode"
+					],
+					[
+						"in",
+						"integrity"
+					],
+					[
+						"i",
+						"id"
+					],
+					[
+						"l",
+						"line"
+					],
+					[
+						"ciph",
+						"ciphers"
+					],
+					[
+						"h",
+						"hasher"
+					],
+					[
+						"v",
+						"view"
+					],
+					[
+						"n",
+						"note_dict"
+					],
+					[
+						"E",
+						"error"
+					],
+					[
+						"s",
+						"sendline"
+					],
+					[
+						"p",
+						"print"
+					],
+					[
+						"pr",
+						"print"
+					],
+					[
+						"K",
+						"key"
+					],
+					[
+						"k",
+						"key"
+					],
+					[
+						"x",
+						"xor"
+					],
+					[
+						"t",
+						"target_cipher"
+					],
+					[
+						"tar",
+						"target_cipher"
+					],
+					[
+						"o",
+						"outputOfCryptanalib"
+					],
+					[
+						"key",
+						"key2"
+					],
+					[
+						"fla",
+						"flagNum"
+					],
+					[
+						"fl",
+						"flagNum"
+					],
+					[
+						"ke",
+						"keyString"
+					],
+					[
+						"M",
+						"Microphone"
+					],
+					[
+						"enc",
+						"encodedString"
+					],
+					[
+						"png",
+						"pngs"
+					],
+					[
+						"e",
+						"editFlag"
+					],
+					[
+						"gi",
+						"givenList"
+					],
+					[
+						"img",
+						"imgdat"
+					],
+					[
+						"res",
+						"requests"
+					],
+					[
+						"T",
+						"True"
+					],
+					[
+						"pdf",
+						"pdfimg"
+					],
+					[
+						"sub",
+						"subprocess"
+					],
+					[
+						"std",
+						"stdio.h\tstandard header"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"prefere",
+						"Preferences: Settings"
+					],
+					[
+						"settings",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"auto co",
+						"Origami: Create and Focus Pane on the Left"
+					],
+					[
+						"python",
+						"Build With: Python - Syntax Check"
+					],
+					[
+						"jedi",
+						"SublimeJedi: Show Docstring"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"plugin",
+						"Plugin Development: Profile Events"
+					],
+					[
+						"schem",
+						"UI: Select Color Scheme"
+					],
+					[
+						"theme",
+						"Material Theme: Activate theme"
+					],
+					[
+						"ke",
+						"Preferences: Key Bindings"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"scche",
+						"UI: Select Color Scheme"
+					],
+					[
+						"scheme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"pref",
+						"Preferences: Settings"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"package control:",
+						"Package Control: Install Package"
+					],
+					[
+						"package control",
+						"Package Control: Discover Packages"
+					],
+					[
+						"package ",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 136.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/rithik/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/rithik/.xinitrc",
+				"/home/rithik/.config/sxhkd/sxhkdrc",
+				"/home/rithik/.config/picom/picom.conf",
+				"/home/rithik/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/rithik/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/rithik/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/rithik/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/rithik/.config/rofi/config.rasi",
+				"/home/rithik/.config/picom/colors.rasi",
+				"/home/rithik/.config/bspwm/bspwmrc",
+				"/home/rithik/.config/sxhkd/brightup",
+				"/home/rithik/.config/alacritty/alacritty.yml",
+				"/home/rithik/.config/xob/styles.cfg",
+				"/home/rithik/.config/dunst/dunstrc",
+				"/home/rithik/.config/dunst/alacritty/alacritty.yml",
+				"/home/rithik/.config/starship.toml",
+				"/home/rithik/.config/polybar/config.ini",
+				"/home/rithik/.config/polybar/trail/polybar-10/config.ini",
+				"/home/rithik/.config/polybar/scripts/sysmenu",
+				"/home/rithik/a",
+				"/home/rithik/q",
+				"/home/rithik/.config/polybar/trail/polybar-6/config-t1.ini",
+				"/home/rithik/.config/polybar/trail/polybar-6/config.ini",
+				"/home/rithik/.config/polybar/trail/polybar-6/colors.ini",
+				"/home/rithik/.config/polybar/trail/polybar-6/scripts/type.sh",
+				"/home/rithik/.config/polybar/trail/polybar-6/scripts/color-switch.sh",
+				"/home/rithik/.config/compton/compton.conf",
+				"/home/rithik/.config/polybar/scripts/check-network",
+				"/home/rithik/.config/polybar/scripts/menu",
+				"/home/rithik/.config/polybar/scripts/color-switch.sh",
+				"/home/rithik/.config/polybar/config",
+				"/home/rithik/.config/polybar/launch.sh",
+				"/home/rithik/challenges/CSAW/adversarial/encrypted.txt",
+				"/home/rithik/challenges/CSAW/adversarial/assignment.txt",
+				"/home/rithik/.config/bspwm.bak/bspwmrc",
+				"/home/rithik/.config/skhkd/sxhkdrc",
+				"/home/rithik/challenges/CSAW/difib/getFlag.py",
+				"/home/rithik/challenges/CSAW/modulusOPerandi/test.py",
+				"/home/rithik/challenges/CSAW/modulusOPerandi/getFlag.py",
+				"/home/rithik/challenges/CSAW/baby_mult/program.c",
+				"/home/rithik/challenges/CSAW/baby_mult/test.c",
+				"/home/rithik/challenges/CSAW/authy/test.py",
+				"/home/rithik/challenges/CSAW/authy/getFlag.py",
+				"/home/rithik/challenges/CSAW/authy/otherMethod.py",
+				"/home/rithik/challenges/CSAW/authy/handout.py",
+				"/home/rithik/challenges/CSAW/adversarial/cracker.py",
+				"/home/rithik/challenges/CSAW/adversarial/b64.enc",
+				"/home/rithik/challenges/CSAW/adversarial/base64decoded.txt.enc",
+				"/home/rithik/challenges/CSAW/adversarial/base64decode.py",
+				"/home/rithik/challenges/CSAW/adversarial/base64decoded.txt",
+				"/home/rithik/challenges/CSAW/modulusOPerandi/log.txt",
+				"/home/rithik/challenges/CSAW/whistleBlow/letter",
+				"/home/rithik/challenges/CSAW/baby_mult/notes",
+				"/home/rithik/challenges/CSAW/modulusOPerandi/loop.py",
+				"/home/rithik/challenges/CSAW/modulusOPerandi/log",
+				"/home/rithik/challenges/CSAW/baby_mult/getFlag.py",
+				"/home/rithik/challenges/CSAW/flask_caching/app.py",
+				"/home/rithik/challenges/CSAW/widthless/file1",
+				"/home/rithik/challenges/CSAW/widthless/getFlag.py",
+				"/home/rithik/challenges/CSAW/widthless/encodedFile",
+				"/home/rithik/challenges/CSAW/widthless/encodedFIle",
+				"/home/rithik/challenges/CSAW/baby_mult/program.txt",
+				"/home/rithik/challenges/infysec/web/originalPageSource",
+				"/home/rithik/challenges/infysec/web/passwordPage",
+				"/home/rithik/challenges/thm/adventOfCyber/day16/getFlag.sh",
+				"/home/rithik/challenges/thm/adventOfCyber/day16/extracted/getFlag.sh",
+				"/home/rithik/challenges/thm/adventOfCyber/day16/extracted/flag",
+				"/home/rithik/challenges/pythonChallenges/README.md",
+				"/home/rithik/challenges/pythonChallenges/2.py",
+				"/home/rithik/challenges/ctflearn/ALEXCTFCR2ManyTimeSecrets/getFlag.py",
+				"/home/rithik/challenges/restConCtf/coolStuffWithPython_complete/challenge/main.py",
+				"/home/rithik/challenges/restConCtf/inPlainSight/bum_tam_tam.txt",
+				"/home/rithik/challenges/restConCtf/inPlainSight/ans.py",
+				"/opt/scripts/complete.sh",
+				"/home/rithik/challenges/restConCtf/vinagre/Encoded.txt",
+				"/home/rithik/challenges/restConCtf/vinagre/brainFuckEncode",
+				"/home/rithik/challenges/restConCtf/vinagre/key-enc.txt",
+				"/home/rithik/challenges/restConCtf/vinagre/keybin",
+				"/home/rithik/challenges/thm/adventOfCyber/req.py",
+				"/home/rithik/.tmux.conf",
+				"/home/rithik/challenges/restConCtf/coolStuffWithPython/challenge/main.py",
+				"/home/rithik/challenges/restConCtf/coolStuffWithPython/challenge/ans.py",
+				"/home/rithik/challenges/restConCtf/binod/wiresharkExtractedFiles/binod.pdf",
+				"/home/rithik/AndroidStudioProjects/to_do_list/README.md",
+				"/home/rithik/challenges/restConCtf/weirdo1/weirdo1.txt",
+				"/home/rithik/challenges/restConCtf/findTheVictim/somethingishere.txt",
+				"/home/rithik/challenges/restConCtf/basic1/getFlag.py",
+				"/home/rithik/challenges/restConCtf/iAmSecure/getFlag.py",
+				"/home/rithik/challenges/thm/adventOfCyber/file8",
+				"/home/rithik/Documents/pythonProjects/whatsAppSpam.py",
+				"/home/rithik/Documents/notes/userlist.note",
+				"/home/rithik/challenges/thm/basicPentesting/README.md",
+				"/home/rithik/challenges/thm/basicPentesting/nmap.txt",
+				"/home/rithik/challenges/ctflearn/reverseDis/prob.c",
+				"/home/rithik/challenges/ctflearn/reverseDis/prob",
+				"/home/rithik/challenges/thm/basicPentesting/kay_id_rsa",
+				"/home/rithik/Documents/pythonProjects/subtitleGenerator/subtitleGen.py",
+				"/home/rithik/challenges/ctflearn/reverseDis/getFlag.py",
+				"/usr/share/dirbuster/wordlists/directory-list-2.3-medium.txt",
+				"/home/rithik/Documents/pythonProjects/subtitleGenerator/soundLib.py",
+				"/home/rithik/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/home/rithik/Documents/pythonProjects/subtitleGenerator/t.py",
+				"/home/rithik/.config/sublime-text-3/Packages/User/SublimePython.sublime-settings",
+				"/home/rithik/.config/sublime-text-3/Packages/SublimePythonIDE/SublimePython.sublime-settings",
+				"/home/rithik/challenges/ctflearn/ALEXCTFCR2ManyTimeSecrets/msg (4)",
+				"/home/rithik/challenges/ctflearn/base22The6/getFlag.sh",
+				"/home/rithik/challenges/ctflearn/wikipedia/flag.txt",
+				"/home/rithik/challenges/ctflearn/wikipedia/getFlag.py",
+				"/home/rithik/challenges/ctflearn/tenThousandHours/getFlag.py",
+				"/home/rithik/challenges/ctflearn/tenThousandHours/mucho_encrypto.py",
+				"/home/rithik/challenges/ctflearn/tenThousandHours/super_encrypted",
+				"/home/rithik/.bashrc",
+				"/home/rithik/challenges/protoStar/stack1/README.md",
+				"/home/rithik/challenges/protoStar/stack1/answerScript",
+				"/home/rithik/challenges/ctflearn/theSimpsons/getFlag.py",
+				"/home/rithik/challenges/ctflearn/theSimpsons/test.py",
+				"/home/rithik/Documents/pythonProjects/subtitleGenerator/test.py",
+				"/home/rithik/Documents/pythonProjects/subtitleGenerator/README.md",
+				"/home/rithik/Documents/webNotes/fileUpload.txt",
+				"/home/rithik/Documents/webNotes/codeExeccution.txt",
+				"/home/rithik/challenges/ctflearn/theSimpsons/notes",
+				"/home/rithik/challenges/protoStar/stack0/answer.sh",
+				"/home/rithik/challenges/protoStar/stack0/README.md",
+				"/home/rithik/challenges/protoStar/README.md",
+				"/home/rithik/Documents/webNotes/README.md",
+				"/home/rithik/Documents/pythonProjects/subtitleGen.py",
+				"/home/rithik/challenges/ctflearn/simpleProgram/getFlag.py"
+			],
+			"find":
+			{
+				"height": 47.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"rithik",
+					"rihtik",
+					"rithik",
+					"close"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 39.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 118.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 512.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 122.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1276.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pa",
+						"payload\tstatement"
+					],
+					[
+						"sen",
+						"sendline\tfunction"
+					],
+					[
+						"n",
+						"n"
+					],
+					[
+						"re",
+						"requests\tmodule"
+					],
+					[
+						"f",
+						"flag\tstatement"
+					],
+					[
+						"o",
+						"ord\tfunction"
+					],
+					[
+						"index",
+						"index\tstatement"
+					],
+					[
+						"in",
+						"index\tfunction"
+					],
+					[
+						"ca",
+						"case\tstatement"
+					],
+					[
+						"de",
+						"deciphered\tstatement"
+					],
+					[
+						"a",
+						"ascii_uppercase\tstatement"
+					],
+					[
+						"str",
+						"string\tmodule"
+					],
+					[
+						"e",
+						"encode\tfunction"
+					],
+					[
+						"targe",
+						"target_hex\tstatement"
+					],
+					[
+						"stac",
+						"stackList\tstatement"
+					],
+					[
+						"ar",
+						"argv\tparam"
+					],
+					[
+						"exe",
+						"executable\tparam"
+					],
+					[
+						"p",
+						"payload"
+					],
+					[
+						"for",
+						"format\tfunction"
+					],
+					[
+						"s",
+						"symbols"
+					],
+					[
+						"l",
+						"libc\tstatement"
+					],
+					[
+						"rs",
+						"rstrip\tfunction"
+					],
+					[
+						"he",
+						"hex\tfunction"
+					],
+					[
+						"pr",
+						"proc\tstatement"
+					],
+					[
+						"pp",
+						"pprint\tfunction"
+					],
+					[
+						"sym",
+						"symbols\tstatement"
+					],
+					[
+						"bin",
+						"binary\tstatement"
+					],
+					[
+						"i",
+						"i\tstatement"
+					],
+					[
+						"fl",
+						"flag"
+					],
+					[
+						"b",
+						"binary\tstatement"
+					],
+					[
+						"ou",
+						"our_hash_val_str"
+					],
+					[
+						"t",
+						"type\tclass"
+					],
+					[
+						"check",
+						"check_output\tfunction"
+					],
+					[
+						"g",
+						"given\tstatement"
+					],
+					[
+						"pos",
+						"postResp\tstatement"
+					],
+					[
+						"c",
+						"content\tfunction"
+					],
+					[
+						"B",
+						"BeautifulSoup\tclass"
+					],
+					[
+						"d",
+						"directory\tstatement"
+					],
+					[
+						"h",
+						"header\tstatement"
+					],
+					[
+						"text",
+						"text\tfunction"
+					],
+					[
+						"lo",
+						"loginUrl\tstatement"
+					],
+					[
+						"chall",
+						"challengeUrl\tstatement"
+					],
+					[
+						"r",
+						"resp\tstatement"
+					],
+					[
+						"m",
+						"message"
+					],
+					[
+						"ramb",
+						"rambls"
+					],
+					[
+						"con",
+						"converter"
+					],
+					[
+						"ide",
+						"identifier_suffix"
+					],
+					[
+						"no",
+						"note_dict"
+					],
+					[
+						"ciph",
+						"ciphers"
+					],
+					[
+						"v",
+						"view"
+					],
+					[
+						"E",
+						"error"
+					],
+					[
+						"K",
+						"key"
+					],
+					[
+						"k",
+						"key"
+					],
+					[
+						"x",
+						"xor"
+					],
+					[
+						"tar",
+						"target_cipher"
+					],
+					[
+						"key",
+						"key2"
+					],
+					[
+						"fla",
+						"flagNum"
+					],
+					[
+						"ke",
+						"keyString"
+					],
+					[
+						"M",
+						"Microphone"
+					],
+					[
+						"enc",
+						"encodedString"
+					],
+					[
+						"png",
+						"pngs"
+					],
+					[
+						"gi",
+						"givenList"
+					],
+					[
+						"img",
+						"imgdat"
+					],
+					[
+						"res",
+						"requests"
+					],
+					[
+						"T",
+						"True"
+					],
+					[
+						"pdf",
+						"pdfimg"
+					],
+					[
+						"sub",
+						"subprocess"
+					],
+					[
+						"std",
+						"stdio.h\tstandard header"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/rithik/challenges/bsidesCTF/y2k/getFlag.py",
+					"settings":
+					{
+						"buffer_size": 142,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"tetxt",
+						"Set Syntax: Textile"
+					],
+					[
+						"view",
+						"View: Toggle Menu"
+					],
+					[
+						"zoom",
+						"Origami: Zoom Current Pane"
+					],
+					[
+						"syntax",
+						"Set Syntax: HTML"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"sublime",
+						"SublimeJedi: Show Signature"
+					],
+					[
+						"prefere",
+						"Preferences: Settings"
+					],
+					[
+						"settings",
+						"Preferences: Package Control Settings – User"
+					],
+					[
+						"auto co",
+						"Origami: Create and Focus Pane on the Left"
+					],
+					[
+						"python",
+						"Build With: Python - Syntax Check"
+					],
+					[
+						"jedi",
+						"SublimeJedi: Show Docstring"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
+					[
+						"plugin",
+						"Plugin Development: Profile Events"
+					],
+					[
+						"schem",
+						"UI: Select Color Scheme"
+					],
+					[
+						"theme",
+						"Material Theme: Activate theme"
+					],
+					[
+						"ke",
+						"Preferences: Key Bindings"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"scche",
+						"UI: Select Color Scheme"
+					],
+					[
+						"scheme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"pref",
+						"Preferences: Settings"
+					],
+					[
+						"package control:",
+						"Package Control: Install Package"
+					],
+					[
+						"package control",
+						"Package Control: Discover Packages"
+					],
+					[
+						"package ",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 136.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/rithik/challenges/thm/adventOfCyber/stealCookie.php",
+				"/home/rithik/challenges/tokyo/easy-hash/easy_hash/getFlag.py",
+				"/home/rithik/challenges/protoStar/format1/exploit.py",
+				"/home/rithik/challenges/downUnderCtf/rot_i_complete/getFlag.py",
+				"/home/rithik/challenges/downUnderCtf/rot_i/getFlag.py",
+				"/home/rithik/challenges/restConCtf/reverse/getFlag.py",
+				"/home/rithik/challenges/downUnderCtf/iLoveScomo_complete/ilovescomo.jpg.out",
+				"/home/rithik/challenges/downUnderCtf/returnToWhat/getFlag.py",
+				"/home/rithik/challenges/protoStar/format0/exploit.py",
+				"/home/rithik/challenges/protoStar/stack7/README.md",
+				"/home/rithik/challenges/protoStar/stack6/exploit.py",
+				"/home/rithik/challenges/protoStar/stack6/README.md",
+				"/home/rithik/challenges/protoStar/stack7/exploit.py",
+				"/home/rithik/challenges/protoStar/stack5_complete/exploit.py",
+				"/home/rithik/Documents/notes/asssembly/assembly",
+				"/home/rithik/challenges/protoStar/stack2/README.md",
+				"/home/rithik/challenges/downUnderCtf/iLoveScomo/getFlag.py",
+				"/home/rithik/challenges/downUnderCtf/iLoveScomo/ilovescomo.jpg.out",
+				"/home/rithik/challenges/downUnderCtf/iLoveScomo/clue.txt",
+				"/home/rithik/challenges/protoStar/stack2/clipboard",
+				"/home/rithik/Documents/notes/assemblyNotes",
+				"/home/rithik/Documents/pythonProjects/ctfScraper.py",
+				"/home/rithik/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+				"/home/rithik/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+				"/home/rithik/.config/sublime-text-3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+				"/home/rithik/.config/sublime-text-3/Packages/User/sublime_jedi.sublime-settings",
+				"/home/rithik/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/rithik/.xinitrc",
+				"/home/rithik/.config/sxhkd/sxhkdrc",
+				"/home/rithik/.config/picom/picom.conf",
+				"/home/rithik/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/rithik/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/rithik/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/rithik/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/rithik/.config/rofi/config.rasi",
+				"/home/rithik/.config/picom/colors.rasi",
+				"/home/rithik/.config/bspwm/bspwmrc",
+				"/home/rithik/.config/sxhkd/brightup",
+				"/home/rithik/.config/alacritty/alacritty.yml",
+				"/home/rithik/.config/xob/styles.cfg",
+				"/home/rithik/.config/dunst/dunstrc",
+				"/home/rithik/.config/dunst/alacritty/alacritty.yml",
+				"/home/rithik/.config/starship.toml",
+				"/home/rithik/.config/polybar/config.ini",
+				"/home/rithik/.config/polybar/trail/polybar-10/config.ini",
+				"/home/rithik/.config/polybar/scripts/sysmenu",
+				"/home/rithik/a",
+				"/home/rithik/q",
+				"/home/rithik/.config/polybar/trail/polybar-6/config-t1.ini",
+				"/home/rithik/.config/polybar/trail/polybar-6/config.ini",
+				"/home/rithik/.config/polybar/trail/polybar-6/colors.ini",
+				"/home/rithik/.config/polybar/trail/polybar-6/scripts/type.sh",
+				"/home/rithik/.config/polybar/trail/polybar-6/scripts/color-switch.sh",
+				"/home/rithik/.config/compton/compton.conf",
+				"/home/rithik/.config/polybar/scripts/check-network",
+				"/home/rithik/.config/polybar/scripts/menu",
+				"/home/rithik/.config/polybar/scripts/color-switch.sh",
+				"/home/rithik/.config/polybar/config",
+				"/home/rithik/.config/polybar/launch.sh",
+				"/home/rithik/challenges/CSAW/adversarial/encrypted.txt",
+				"/home/rithik/challenges/CSAW/adversarial/assignment.txt",
+				"/home/rithik/.config/bspwm.bak/bspwmrc",
+				"/home/rithik/.config/skhkd/sxhkdrc",
+				"/home/rithik/challenges/CSAW/difib/getFlag.py",
+				"/home/rithik/challenges/CSAW/modulusOPerandi/test.py",
+				"/home/rithik/challenges/CSAW/modulusOPerandi/getFlag.py",
+				"/home/rithik/challenges/CSAW/baby_mult/program.c",
+				"/home/rithik/challenges/CSAW/baby_mult/test.c",
+				"/home/rithik/challenges/CSAW/authy/test.py",
+				"/home/rithik/challenges/CSAW/authy/getFlag.py",
+				"/home/rithik/challenges/CSAW/authy/otherMethod.py",
+				"/home/rithik/challenges/CSAW/authy/handout.py",
+				"/home/rithik/challenges/CSAW/adversarial/cracker.py",
+				"/home/rithik/challenges/CSAW/adversarial/b64.enc",
+				"/home/rithik/challenges/CSAW/adversarial/base64decoded.txt.enc",
+				"/home/rithik/challenges/CSAW/adversarial/base64decode.py",
+				"/home/rithik/challenges/CSAW/adversarial/base64decoded.txt",
+				"/home/rithik/challenges/CSAW/modulusOPerandi/log.txt",
+				"/home/rithik/challenges/CSAW/whistleBlow/letter",
+				"/home/rithik/challenges/CSAW/baby_mult/notes",
+				"/home/rithik/challenges/CSAW/modulusOPerandi/loop.py",
+				"/home/rithik/challenges/CSAW/modulusOPerandi/log",
+				"/home/rithik/challenges/CSAW/baby_mult/getFlag.py",
+				"/home/rithik/challenges/CSAW/flask_caching/app.py",
+				"/home/rithik/challenges/CSAW/widthless/file1",
+				"/home/rithik/challenges/CSAW/widthless/getFlag.py",
+				"/home/rithik/challenges/CSAW/widthless/encodedFile",
+				"/home/rithik/challenges/CSAW/widthless/encodedFIle",
+				"/home/rithik/challenges/CSAW/baby_mult/program.txt",
+				"/home/rithik/challenges/infysec/web/originalPageSource",
+				"/home/rithik/challenges/infysec/web/passwordPage",
+				"/home/rithik/challenges/thm/adventOfCyber/day16/getFlag.sh",
+				"/home/rithik/challenges/thm/adventOfCyber/day16/extracted/getFlag.sh",
+				"/home/rithik/challenges/thm/adventOfCyber/day16/extracted/flag",
+				"/home/rithik/challenges/pythonChallenges/README.md",
+				"/home/rithik/challenges/pythonChallenges/2.py",
+				"/home/rithik/challenges/ctflearn/ALEXCTFCR2ManyTimeSecrets/getFlag.py",
+				"/home/rithik/challenges/restConCtf/coolStuffWithPython_complete/challenge/main.py",
+				"/home/rithik/challenges/restConCtf/inPlainSight/bum_tam_tam.txt",
+				"/home/rithik/challenges/restConCtf/inPlainSight/ans.py",
+				"/opt/scripts/complete.sh",
+				"/home/rithik/challenges/restConCtf/vinagre/Encoded.txt",
+				"/home/rithik/challenges/restConCtf/vinagre/brainFuckEncode",
+				"/home/rithik/challenges/restConCtf/vinagre/key-enc.txt",
+				"/home/rithik/challenges/restConCtf/vinagre/keybin",
+				"/home/rithik/challenges/thm/adventOfCyber/req.py",
+				"/home/rithik/.tmux.conf",
+				"/home/rithik/challenges/restConCtf/coolStuffWithPython/challenge/main.py",
+				"/home/rithik/challenges/restConCtf/coolStuffWithPython/challenge/ans.py",
+				"/home/rithik/challenges/restConCtf/binod/wiresharkExtractedFiles/binod.pdf",
+				"/home/rithik/AndroidStudioProjects/to_do_list/README.md",
+				"/home/rithik/challenges/restConCtf/weirdo1/weirdo1.txt",
+				"/home/rithik/challenges/restConCtf/findTheVictim/somethingishere.txt",
+				"/home/rithik/challenges/restConCtf/basic1/getFlag.py",
+				"/home/rithik/challenges/restConCtf/iAmSecure/getFlag.py",
+				"/home/rithik/challenges/thm/adventOfCyber/file8",
+				"/home/rithik/Documents/pythonProjects/whatsAppSpam.py",
+				"/home/rithik/Documents/notes/userlist.note",
+				"/home/rithik/challenges/thm/basicPentesting/README.md",
+				"/home/rithik/challenges/thm/basicPentesting/nmap.txt",
+				"/home/rithik/challenges/ctflearn/reverseDis/prob.c",
+				"/home/rithik/challenges/ctflearn/reverseDis/prob",
+				"/home/rithik/challenges/thm/basicPentesting/kay_id_rsa",
+				"/home/rithik/Documents/pythonProjects/subtitleGenerator/subtitleGen.py",
+				"/home/rithik/challenges/ctflearn/reverseDis/getFlag.py",
+				"/usr/share/dirbuster/wordlists/directory-list-2.3-medium.txt",
+				"/home/rithik/Documents/pythonProjects/subtitleGenerator/soundLib.py",
+				"/home/rithik/Documents/pythonProjects/subtitleGenerator/t.py"
+			],
+			"find":
+			{
+				"height": 79.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"proc",
+					"Australians all let us rejoice,\nFor we are young and free;\nWe've golden soil and wealth for toil;\nOur home is girt by sea;\nOur land abounds in nature's gifts\nOf beauty rich and rare;\nIn history's page, let every stage\nAdvance Australia Fair.\nIn joyful strains then let us sing,\nAdvance Australia Fair.\n\nBeneath our radiant Southern Cross\nWe'll toil with hearts and hands;\nTo make this Commonwealth of ours\nRenowned of all the lands;\nFor those who've come across the seas\nWe've boundless plains to share;\nWith courage let us all combine\nTo Advance Australia Fair.\nIn joyful strains then let us sing,\nAdvance Australia Fair.",
+					"\\",
+					"n",
+					"\\",
+					"t",
+					"\\t",
+					"pt-5",
+					"scrap",
+					"resp",
+					"nonce",
+					"BeautifulSoup",
+					"rithik",
+					"rihtik",
+					"rithik",
+					"close"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/rithik/challenges/bsidesCTF/y2k/getFlag.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 142,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										102,
+										102
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 41.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.exec":
+			{
+				"height": 59.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 512.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,10,743,1071,1426,2160,1440",
+			"project": "",
+			"replace":
+			{
+				"height": 196.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+			},
+			"window_id": 4,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

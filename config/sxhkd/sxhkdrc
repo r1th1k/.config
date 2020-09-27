@@ -1,0 +1,83 @@
+# BSPWM HOTKEYS
+# (http://la-familia-grande.de/index.php?site=bspwm)
+
+# common keys
+super + r
+	pkill -USR1 -x sxhkd
+super + b
+	source /home/rithik/.config/bspwm/bspwmrc
+super + m
+	bspc node -s biggest
+super + q
+    bspc node -c
+F8
+    systemctl suspend -i
+
+# volume
+F5
+  pactl set-sink-volume 0 -5%
+F6
+  pactl set-sink-volume 0 +5%
+F4
+  pactl set-sink-mute 0 toggle
+
+# brightness
+F2
+  xrandr --output eDP-1 --brightness `bc <<< "$(xrandr --verbose --current | grep ^eDP-1 -A5 | tail -n1 | cut -d " " -f2) + 0.2"`
+F1
+  xrandr --output eDP-1 --brightness `bc <<< "$(xrandr --verbose --current | grep ^eDP-1 -A5 | tail -n1 | cut -d " " -f2) - 0.2"`
+F3
+  xrandr --output eDP-1 --brightness 1.0
+
+# application shortcuts
+alt + r
+	rofi -show run 2>/dev/null
+alt + Return
+	alacritty
+alt + f
+	firefox
+alt + s
+	subl
+
+# FOCUS window or dsktop
+# focus or send to the given desktop
+super + {_,shift + }{1-9,0}
+	bspc {desktop -f,node -d} focused:'^{1-9,10}'
+# focus the node in the given direction
+super + {_,shift + }{Left,Down,Up,Right}
+	bspc node -{f,s} {west,south,north,east}
+
+
+# MOVE/RESIZE
+# expand a window by moving one of its side outward
+super + alt + {Left,Down,Up,Right}
+	bspc node -z {left -20 0,bottom 0 20,top 0 -20,right 20 0}
+
+# move a floating window
+super + {h,j,k,l}
+	bspc node -v {-20 0,0 20,0 -20,20 0}
+
+# PRESELECT
+# preselect the direction
+super + ctrl + {Left,Down,Up,Right}
+	bspc node -p {west,south,north,east}
+
+# preselect the ratio
+super + ctrl + {1-9}
+	bspc node -o 0.{1-9}
+
+# cancel the preselection for the focused node
+super + space
+	bspc node -p cancel
+
+
+# STATE/FLAGS
+# set the window state
+super + {t,shift + t,f,z}
+	bspc node -t {tiled,pseudo_tiled,floating,fullscreen}
+
+# set the node flags
+super + ctrl + {m,l,s,p}
+	bspc node -g {marked,locked,sticky,private}
+
+xdo below -t $(xdo id -n root) $(xdo id -a polybar)

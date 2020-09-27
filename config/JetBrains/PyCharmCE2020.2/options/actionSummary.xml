@@ -1,0 +1,72 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="$Delete">
+        <ActionSummary times="1" last="1598072269051" />
+      </entry>
+      <entry key="$Undo">
+        <ActionSummary times="1" last="1598072610866" />
+      </entry>
+      <entry key="ChooseRunConfiguration">
+        <ActionSummary times="1" last="1598073034841" />
+      </entry>
+      <entry key="CloseProject">
+        <ActionSummary times="2" last="1598073578621" />
+      </entry>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="137" last="1598073163692" />
+      </entry>
+      <entry key="EditorChooseLookupItem">
+        <ActionSummary times="20" last="1598073024350" />
+      </entry>
+      <entry key="EditorDelete">
+        <ActionSummary times="1" last="1598072947897" />
+      </entry>
+      <entry key="EditorDown">
+        <ActionSummary times="15" last="1598073024121" />
+      </entry>
+      <entry key="EditorEnter">
+        <ActionSummary times="23" last="1598073160781" />
+      </entry>
+      <entry key="EditorLeft">
+        <ActionSummary times="2" last="1598073137591" />
+      </entry>
+      <entry key="EditorRight">
+        <ActionSummary times="22" last="1598072982323" />
+      </entry>
+      <entry key="EditorTab">
+        <ActionSummary times="3" last="1598072909642" />
+      </entry>
+      <entry key="EditorUp">
+        <ActionSummary times="1" last="1598072745660" />
+      </entry>
+      <entry key="NewPythonFile">
+        <ActionSummary times="1" last="1598072276086" />
+      </entry>
+      <entry key="RenameProject">
+        <ActionSummary times="1" last="1598072115563" />
+      </entry>
+      <entry key="Rerun">
+        <ActionSummary times="2" last="1598073063624" />
+      </entry>
+      <entry key="SaveAll">
+        <ActionSummary times="2" last="1598073030451" />
+      </entry>
+      <entry key="ShowIntentionActions">
+        <ActionSummary times="2" last="1598073138457" />
+      </entry>
+      <entry key="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$SettingsActionGroup">
+        <ActionSummary times="1" last="1598072594727" />
+      </entry>
+      <entry key="com.intellij.openapi.ui.DialogWrapper$5">
+        <ActionSummary times="1" last="1598072270604" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+        <ActionSummary times="8" last="1598073117252" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$6">
+        <ActionSummary times="2" last="1598072204762" />
+      </entry>
+    </data>
+  </component>
+</application>

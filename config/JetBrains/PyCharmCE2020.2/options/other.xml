@@ -1,0 +1,22 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="appcds.runOnSecondStart" value="PC-202.6397.98-8c6238cae548facba2874f9167b956abfc6b7f19001a5b797ef3ea69530645a1" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
+    <property name="file.gist.reindex.count" value="1190" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="lastSeenTip" value="neue-ShowUsages.html" />
+    <property name="lastTimeTipsWereShown" value="1598071988424" />
+    <property name="seenTips" value="neue-ShowUsages.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>
