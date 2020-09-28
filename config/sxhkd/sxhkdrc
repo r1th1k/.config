@@ -15,11 +15,11 @@ F8
 
 # volume
 F5
-  pactl set-sink-volume 0 -5%
+  amixer set Master 10%-
 F6
-  pactl set-sink-volume 0 +5%
+  amixer set Master 10%+
 F4
-  pactl set-sink-mute 0 toggle
+  amixer set Master toggle
 
 # brightness
 F2
@@ -29,6 +29,12 @@ F1
 F3
   xrandr --output eDP-1 --brightness 1.0
 
+# Inapp transparency
+F9
+  devilspie2 --folder ~/.devilspie2/fire1/ &
+F10
+  devilspie2 --folder ~/.devilspie2/fire0/ &
+  
 # application shortcuts
 alt + r
 	rofi -show run 2>/dev/null
